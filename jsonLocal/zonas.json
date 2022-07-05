@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Entrada principal"
+    },
+    {
+        "id": 2,
+        "nombre": "Aula 1"
+    },
+    {
+        "id": 3,
+        "nombre": "Aula 2"
+    }
+]
